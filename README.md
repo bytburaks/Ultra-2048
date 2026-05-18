@@ -4,7 +4,7 @@ This repository contains a fully functional, polished clone of the famous **2048
 
 ## 🚀 Play in Browser
 You can play the web-optimized version of the game directly on your browser via GitHub Pages:
-👉 **[Click Here to Play the Game](YAPTIĞIN_GITHUB_PAGES_LINKINI_BURAYA_YAZ)**
+👉 **[Click Here to Play the Game](https://bytburaks.github.io/Ultra-2048/)**
 
 ---
 
@@ -46,14 +46,10 @@ You can play the web-optimized version of the game directly on your browser via 
 
 ---
 
-## 📂 Project Structure Overview
+## 🎮 Game Photos
 
-```text
-Assets/
-├── _Scripts/
-│   ├── Grid/           # 4x4 Matrix logic, cell tracking, and empty-slot finders
-│   ├── Tile/           # Individual tile controllers, value updates, and visual scaling
-│   ├── Input/          # Swipe and Keyboard input interceptors
-│   └── Managers/       # Score manager, Game State (Win/Loss), and PlayerPrefs handlers
-├── Prefabs/            # Reusable Tile GameObjects with dynamic Text Mesh Pro setup
-└── Art/                # UI Sprites, custom color palettes, and fonts
+<img width="313" height="611" alt="3" src="https://github.com/user-attachments/assets/98a66955-5784-4dbd-a65b-0fc7b92df352" />
+<img width="312" height="602" alt="2" src="https://github.com/user-attachments/assets/03c31808-1702-409c-8987-00633862710a" />
+<img width="317" height="617" alt="1" src="https://github.com/user-attachments/assets/ed9d65a7-bf7c-48b5-babf-ce4c4e731c94" />
+
+---
